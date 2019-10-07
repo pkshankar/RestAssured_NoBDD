@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-06T15:32:26 IST" name="Default suite" finished-at="2019-10-06T15:32:34 IST" duration-ms="7811">
+    <groups>
+    </groups>
+    <test started-at="2019-10-06T15:32:26 IST" name="Default test" finished-at="2019-10-06T15:32:34 IST" duration-ms="7811">
+      <class name="com.qa.test.PostRestFulBooker">
+        <test-method signature="createTokenJsonFile()[pri:0, instance:com.qa.test.PostRestFulBooker@6b19b79]" started-at="2019-10-06T15:32:26 IST" name="createTokenJsonFile" finished-at="2019-10-06T15:32:29 IST" duration-ms="3247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTokenJsonFile -->
+        <test-method signature="createTokenJsonObj()[pri:0, instance:com.qa.test.PostRestFulBooker@6b19b79]" started-at="2019-10-06T15:32:29 IST" name="createTokenJsonObj" finished-at="2019-10-06T15:32:31 IST" duration-ms="1423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTokenJsonObj -->
+        <test-method signature="createTokenSerialization()[pri:0, instance:com.qa.test.PostRestFulBooker@6b19b79]" started-at="2019-10-06T15:32:31 IST" name="createTokenSerialization" finished-at="2019-10-06T15:32:32 IST" duration-ms="1723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTokenSerialization -->
+        <test-method signature="createTokenWithoutSerialization()[pri:0, instance:com.qa.test.PostRestFulBooker@6b19b79]" started-at="2019-10-06T15:32:32 IST" name="createTokenWithoutSerialization" finished-at="2019-10-06T15:32:34 IST" duration-ms="1361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTokenWithoutSerialization -->
+      </class> <!-- com.qa.test.PostRestFulBooker -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
